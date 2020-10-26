@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**reb311ion/reb311ion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+I'm reb311ion.
+
+- 🔭 I’m currently working as a cybersecurity R&D Engineer.
+- 🌱 Main interests are Reverse Engineering and Malware Analysis 
+- 📫 How to reach me: [e-mail](mailto:sec.magdymoustafa@gmail.com) and [twitter](https://twitter.com/reb311ion)
+- 💬 Favorite quote: Sucess is the best revenge.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=reb311ion&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reb311ion" />
+</a>
