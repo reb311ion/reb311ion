@@ -2,7 +2,7 @@ I'm reb311ion.
 
 - 🔭 I’m currently working as a cybersecurity R&D Engineer.
 - 🌱 Main interests are Reverse Engineering and Malware Analysis 
-- 📫 How to reach me: [e-mail](mailto:sec.magdymoustafa@gmail.com) and [twitter](https://twitter.com/reb311ion)
+- 📫 How to reach me: [e-mail](mailto:sec.magdymoustafa@gmail.com), [twitter](https://twitter.com/reb311ion) and [keybase](https://keybase.io/reb311ion)
 - 💬 Favorite quote: Sucess is the best revenge.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
